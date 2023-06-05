@@ -1,4 +1,4 @@
-# Nice to meet you! I'm Sophia
+## Nice to meet you! I'm Sophia
 
 ## About Me
 - Undergraduate studying Computer Science and Engineering at the University of California, Irvine
