@@ -5,4 +5,4 @@
 - Active part of SWE, IEEE, UCI CubeSat, and ICSSC Projects!
 - Enjoy playing games, reading, photography, and keyboard building
 
-*Look at these keycaps:* https://osumekeys.com/products/strawberry-milk-keycaps
+*Feel free to connect with me:* https://www.linkedin.com/in/sophia-belle-tran/
