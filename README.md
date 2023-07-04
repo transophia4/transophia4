@@ -1,5 +1,7 @@
-## Nice to meet you! I'm Sophia
+## Nice to meet you!
 ### About Me
 - Undergraduate studying Computer Science and Engineering at the University of California, Irvine
-- I am working on learning about web apps and want to learn about everything from frontend to backend
-- I am part of SWE, IEEE, CubeSat, and ICSSC Projects!
+- Always learning more about web apps and excited for all my future projects
+- Active part of SWE, IEEE, UCI CubeSat, and ICSSC Projects!
+- Enjoy playing games, reading, photography, and keyboard building
+*Look at these keycaps:*https://osumekeys.com/products/strawberry-milk-keycaps
